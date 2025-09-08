@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Sangam Vashishtha  
 
-<!--
-**sangam526/sangam526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate developer exploring Java, C, and backend technologies.  
+💻 Love building projects and learning new concepts.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+![Sangam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangamVashishtha&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SangamVashishtha&layout=compact&theme=radical)  
+
+---
+
+⭐️ From [Sangam Vashishtha](https://github.com/SangamVashishtha)
