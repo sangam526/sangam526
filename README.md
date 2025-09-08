@@ -12,10 +12,10 @@
 ---
 
 ## 📊 GitHub Stats  
-![Sangam's GitHub stats](https://github-readme-stats.vercel.app/api?username=SangamVashishtha&show_icons=true&theme=radical)  
+![Sangam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangam526&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SangamVashishtha&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sangam526&layout=compact&theme=radical)  
 
 ---
 
-⭐️ From [Sangam Vashishtha](https://github.com/SangamVashishtha)
+⭐️ From [Sangam Vashishtha](https://github.com/sangam526)
